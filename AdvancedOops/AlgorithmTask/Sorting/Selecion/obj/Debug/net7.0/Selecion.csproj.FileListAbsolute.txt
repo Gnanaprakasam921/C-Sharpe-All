@@ -1,0 +1,15 @@
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Selecion\bin\Debug\net7.0\Selecion.exe
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Selecion\bin\Debug\net7.0\Selecion.deps.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Selecion\bin\Debug\net7.0\Selecion.runtimeconfig.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Selecion\bin\Debug\net7.0\Selecion.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Selecion\bin\Debug\net7.0\Selecion.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Selecion\obj\Debug\net7.0\Selecion.csproj.AssemblyReference.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Selecion\obj\Debug\net7.0\Selecion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Selecion\obj\Debug\net7.0\Selecion.AssemblyInfoInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Selecion\obj\Debug\net7.0\Selecion.AssemblyInfo.cs
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Selecion\obj\Debug\net7.0\Selecion.csproj.CoreCompileInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Selecion\obj\Debug\net7.0\Selecion.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Selecion\obj\Debug\net7.0\refint\Selecion.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Selecion\obj\Debug\net7.0\Selecion.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Selecion\obj\Debug\net7.0\Selecion.genruntimeconfig.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Selecion\obj\Debug\net7.0\ref\Selecion.dll

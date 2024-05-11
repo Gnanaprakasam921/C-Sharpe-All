@@ -1,0 +1,15 @@
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\PayRoll\bin\Debug\net7.0\PayRoll.exe
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\PayRoll\bin\Debug\net7.0\PayRoll.deps.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\PayRoll\bin\Debug\net7.0\PayRoll.runtimeconfig.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\PayRoll\bin\Debug\net7.0\PayRoll.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\PayRoll\bin\Debug\net7.0\PayRoll.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\PayRoll\obj\Debug\net7.0\PayRoll.csproj.AssemblyReference.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\PayRoll\obj\Debug\net7.0\PayRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\PayRoll\obj\Debug\net7.0\PayRoll.AssemblyInfoInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\PayRoll\obj\Debug\net7.0\PayRoll.AssemblyInfo.cs
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\PayRoll\obj\Debug\net7.0\PayRoll.csproj.CoreCompileInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\PayRoll\obj\Debug\net7.0\PayRoll.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\PayRoll\obj\Debug\net7.0\refint\PayRoll.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\PayRoll\obj\Debug\net7.0\PayRoll.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\PayRoll\obj\Debug\net7.0\PayRoll.genruntimeconfig.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\PayRoll\obj\Debug\net7.0\ref\PayRoll.dll

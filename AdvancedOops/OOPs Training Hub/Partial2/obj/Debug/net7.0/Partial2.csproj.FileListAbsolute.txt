@@ -1,0 +1,15 @@
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\OOPs Training Hub\Partial2\bin\Debug\net7.0\Partial2.exe
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\OOPs Training Hub\Partial2\bin\Debug\net7.0\Partial2.deps.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\OOPs Training Hub\Partial2\bin\Debug\net7.0\Partial2.runtimeconfig.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\OOPs Training Hub\Partial2\bin\Debug\net7.0\Partial2.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\OOPs Training Hub\Partial2\bin\Debug\net7.0\Partial2.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\OOPs Training Hub\Partial2\obj\Debug\net7.0\Partial2.csproj.AssemblyReference.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\OOPs Training Hub\Partial2\obj\Debug\net7.0\Partial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\OOPs Training Hub\Partial2\obj\Debug\net7.0\Partial2.AssemblyInfoInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\OOPs Training Hub\Partial2\obj\Debug\net7.0\Partial2.AssemblyInfo.cs
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\OOPs Training Hub\Partial2\obj\Debug\net7.0\Partial2.csproj.CoreCompileInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\OOPs Training Hub\Partial2\obj\Debug\net7.0\Partial2.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\OOPs Training Hub\Partial2\obj\Debug\net7.0\refint\Partial2.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\OOPs Training Hub\Partial2\obj\Debug\net7.0\Partial2.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\OOPs Training Hub\Partial2\obj\Debug\net7.0\Partial2.genruntimeconfig.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\OOPs Training Hub\Partial2\obj\Debug\net7.0\ref\Partial2.dll

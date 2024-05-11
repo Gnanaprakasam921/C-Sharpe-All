@@ -1,0 +1,15 @@
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\CollegeAdmis\bin\Debug\net7.0\CollegeAdmis.exe
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\CollegeAdmis\bin\Debug\net7.0\CollegeAdmis.deps.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\CollegeAdmis\bin\Debug\net7.0\CollegeAdmis.runtimeconfig.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\CollegeAdmis\bin\Debug\net7.0\CollegeAdmis.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\CollegeAdmis\bin\Debug\net7.0\CollegeAdmis.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\CollegeAdmis\obj\Debug\net7.0\CollegeAdmis.csproj.AssemblyReference.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\CollegeAdmis\obj\Debug\net7.0\CollegeAdmis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\CollegeAdmis\obj\Debug\net7.0\CollegeAdmis.AssemblyInfoInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\CollegeAdmis\obj\Debug\net7.0\CollegeAdmis.AssemblyInfo.cs
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\CollegeAdmis\obj\Debug\net7.0\CollegeAdmis.csproj.CoreCompileInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\CollegeAdmis\obj\Debug\net7.0\CollegeAdmis.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\CollegeAdmis\obj\Debug\net7.0\refint\CollegeAdmis.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\CollegeAdmis\obj\Debug\net7.0\CollegeAdmis.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\CollegeAdmis\obj\Debug\net7.0\CollegeAdmis.genruntimeconfig.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\CollegeAdmis\obj\Debug\net7.0\ref\CollegeAdmis.dll

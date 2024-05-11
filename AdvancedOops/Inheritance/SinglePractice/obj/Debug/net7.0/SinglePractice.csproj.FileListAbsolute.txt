@@ -1,0 +1,15 @@
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\Inheritance\SinglePractice\obj\Debug\net7.0\SinglePractice.csproj.AssemblyReference.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\Inheritance\SinglePractice\obj\Debug\net7.0\SinglePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\Inheritance\SinglePractice\obj\Debug\net7.0\SinglePractice.AssemblyInfoInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\Inheritance\SinglePractice\obj\Debug\net7.0\SinglePractice.AssemblyInfo.cs
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\Inheritance\SinglePractice\obj\Debug\net7.0\SinglePractice.csproj.CoreCompileInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\Inheritance\SinglePractice\bin\Debug\net7.0\SinglePractice.exe
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\Inheritance\SinglePractice\bin\Debug\net7.0\SinglePractice.deps.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\Inheritance\SinglePractice\bin\Debug\net7.0\SinglePractice.runtimeconfig.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\Inheritance\SinglePractice\bin\Debug\net7.0\SinglePractice.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\Inheritance\SinglePractice\bin\Debug\net7.0\SinglePractice.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\Inheritance\SinglePractice\obj\Debug\net7.0\SinglePractice.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\Inheritance\SinglePractice\obj\Debug\net7.0\refint\SinglePractice.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\Inheritance\SinglePractice\obj\Debug\net7.0\SinglePractice.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\Inheritance\SinglePractice\obj\Debug\net7.0\SinglePractice.genruntimeconfig.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\Inheritance\SinglePractice\obj\Debug\net7.0\ref\SinglePractice.dll

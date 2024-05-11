@@ -1,0 +1,15 @@
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\Static\bin\Debug\net7.0\Static.exe
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\Static\bin\Debug\net7.0\Static.deps.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\Static\bin\Debug\net7.0\Static.runtimeconfig.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\Static\bin\Debug\net7.0\Static.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\Static\bin\Debug\net7.0\Static.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\Static\obj\Debug\net7.0\Static.csproj.AssemblyReference.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\Static\obj\Debug\net7.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\Static\obj\Debug\net7.0\Static.AssemblyInfoInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\Static\obj\Debug\net7.0\Static.AssemblyInfo.cs
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\Static\obj\Debug\net7.0\Static.csproj.CoreCompileInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\Static\obj\Debug\net7.0\Static.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\Static\obj\Debug\net7.0\refint\Static.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\Static\obj\Debug\net7.0\Static.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\Static\obj\Debug\net7.0\Static.genruntimeconfig.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\Static\obj\Debug\net7.0\ref\Static.dll

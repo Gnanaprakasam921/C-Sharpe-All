@@ -1,0 +1,15 @@
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Bubble\bin\Debug\net7.0\Bubble.exe
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Bubble\bin\Debug\net7.0\Bubble.deps.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Bubble\bin\Debug\net7.0\Bubble.runtimeconfig.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Bubble\bin\Debug\net7.0\Bubble.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Bubble\bin\Debug\net7.0\Bubble.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Bubble\obj\Debug\net7.0\Bubble.csproj.AssemblyReference.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Bubble\obj\Debug\net7.0\Bubble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Bubble\obj\Debug\net7.0\Bubble.AssemblyInfoInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Bubble\obj\Debug\net7.0\Bubble.AssemblyInfo.cs
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Bubble\obj\Debug\net7.0\Bubble.csproj.CoreCompileInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Bubble\obj\Debug\net7.0\Bubble.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Bubble\obj\Debug\net7.0\refint\Bubble.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Bubble\obj\Debug\net7.0\Bubble.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Bubble\obj\Debug\net7.0\Bubble.genruntimeconfig.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\AdvancedOops\AlgorithmTask\Sorting\Bubble\obj\Debug\net7.0\ref\Bubble.dll

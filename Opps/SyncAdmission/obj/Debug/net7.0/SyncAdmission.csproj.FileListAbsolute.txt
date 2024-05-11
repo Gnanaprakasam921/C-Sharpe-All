@@ -1,0 +1,15 @@
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\SyncAdmission\bin\Debug\net7.0\SyncAdmission.exe
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\SyncAdmission\bin\Debug\net7.0\SyncAdmission.deps.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\SyncAdmission\bin\Debug\net7.0\SyncAdmission.runtimeconfig.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\SyncAdmission\bin\Debug\net7.0\SyncAdmission.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\SyncAdmission\bin\Debug\net7.0\SyncAdmission.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\SyncAdmission\obj\Debug\net7.0\SyncAdmission.csproj.AssemblyReference.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\SyncAdmission\obj\Debug\net7.0\SyncAdmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\SyncAdmission\obj\Debug\net7.0\SyncAdmission.AssemblyInfoInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\SyncAdmission\obj\Debug\net7.0\SyncAdmission.AssemblyInfo.cs
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\SyncAdmission\obj\Debug\net7.0\SyncAdmission.csproj.CoreCompileInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\SyncAdmission\obj\Debug\net7.0\SyncAdmission.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\SyncAdmission\obj\Debug\net7.0\refint\SyncAdmission.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\SyncAdmission\obj\Debug\net7.0\SyncAdmission.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\SyncAdmission\obj\Debug\net7.0\SyncAdmission.genruntimeconfig.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\SyncAdmission\obj\Debug\net7.0\ref\SyncAdmission.dll

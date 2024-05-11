@@ -1,0 +1,15 @@
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\MedicalStore\obj\Debug\net7.0\MedicalStore.csproj.AssemblyReference.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\MedicalStore\obj\Debug\net7.0\MedicalStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\MedicalStore\obj\Debug\net7.0\MedicalStore.AssemblyInfoInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\MedicalStore\obj\Debug\net7.0\MedicalStore.AssemblyInfo.cs
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\MedicalStore\obj\Debug\net7.0\MedicalStore.csproj.CoreCompileInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\MedicalStore\bin\Debug\net7.0\MedicalStore.exe
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\MedicalStore\bin\Debug\net7.0\MedicalStore.deps.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\MedicalStore\bin\Debug\net7.0\MedicalStore.runtimeconfig.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\MedicalStore\bin\Debug\net7.0\MedicalStore.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\MedicalStore\bin\Debug\net7.0\MedicalStore.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\MedicalStore\obj\Debug\net7.0\MedicalStore.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\MedicalStore\obj\Debug\net7.0\refint\MedicalStore.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\MedicalStore\obj\Debug\net7.0\MedicalStore.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\MedicalStore\obj\Debug\net7.0\MedicalStore.genruntimeconfig.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Opps\BasicListAssignment\MedicalStore\obj\Debug\net7.0\ref\MedicalStore.dll
